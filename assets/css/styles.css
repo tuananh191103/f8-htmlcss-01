@@ -151,6 +151,10 @@ a {
     margin-top: 96px;
 }
 
+.client .client-logo a {
+    padding: 0 42px;
+}
+
 /* =====Guides====== */
 
 .guides {
